@@ -6,7 +6,7 @@
    - `int rollNumber`
    - `char grade`
 
-2. Create a **constructor** for the `Student` class that accepts all three fields as parameters and initializes them.
+2. Create a **constructor** (use the keyword **public** with the constructor) for the `Student` class that accepts all three fields as parameters and initializes them.
 
 3. Create a method `displayDetails()` that prints the student details.
 
